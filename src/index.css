@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(./Images/bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paddingsm{
+    padding: 10px;
+}
